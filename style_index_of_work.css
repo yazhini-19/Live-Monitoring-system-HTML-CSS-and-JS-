@@ -1,0 +1,9 @@
+.tableIndex,tr,th {
+    border: 1px solid #ddd;
+    width:50%;
+}
+.th{
+    width:100%;
+}
+tr:hover {background: color #ecbaba;
+}
